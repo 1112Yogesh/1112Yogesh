@@ -59,15 +59,11 @@ I enjoy solving complex engineering problems, contributing to impactful projects
 
 ---
 
-## 📌 Featured Projects  
+## 📊 GitHub Stats  
 
-- [Thought2Design – PCB Design Platform](#)  
-- [Networking Systems: TCP/UDP Protocols, SDN, Congestion Control](#)  
-- [Operating Systems: xv6 Extensions](#)  
-- [Boolean Retrieval Engine – IR Project](#)  
-- [LaTeX → Markdown Converter](#)  
-- [Metal Slug–Style 2D Action Game](#)  
-- [Mini Web Browser (C++/Qt)](#)  
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)  
 
 ---
 
