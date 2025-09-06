@@ -61,9 +61,8 @@ I enjoy solving complex engineering problems, contributing to impactful projects
 
 ## 📫 Connect  
 
-- 🔗 [LinkedIn](#)  
-- 🐙 [GitHub](#)  
-- 📧 [Email](#)  
+- 🔗 [LinkedIn](www.linkedin.com/in/ygsh)    
+- 📧 [Email](yogeshv1112@gmail.com)  
 
 ---
 
