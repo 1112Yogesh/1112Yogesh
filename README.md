@@ -61,9 +61,9 @@ I enjoy solving complex engineering problems, contributing to impactful projects
 
 ## 📊 GitHub Stats  
 
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1112Yogesh&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1112Yogesh&layout=compact&theme=tokyonight)  
 
 ---
 
