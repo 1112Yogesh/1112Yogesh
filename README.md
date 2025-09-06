@@ -1,48 +1,53 @@
 # 👋 Hi, I'm Yogesh  
 
-🎓 M.Tech in Computer Science @ IIT Delhi | 💻 Systems & Networking Enthusiast | 🚀 Builder of Compilers, Browsers, Games & PCB Tools  
+🎓 **M.Tech in Computer Science, IIT Delhi**  
+💻 Focus: **Systems Programming, Networking, Compilers, and Information Retrieval**  
 
 ---
 
-## 🌟 About Me  
+## 👨‍💻 About Me  
 
-- 💡 I love building **systems from scratch** — whether it's an OS scheduler, a reliable transport protocol, or a compiler frontend.  
-- ⚡ Interests: **Operating Systems, Networking, Information Retrieval, and Full-Stack Development**.  
-- 🎮 I also enjoy making games and experimenting with UI/UX in code.  
-- 🛠️ I believe in learning by building — from **C++ data structures (AVL trees, hash tables)** to **interactive PCB design tools**.  
+I am passionate about designing and building **robust systems from the ground up** — from operating system enhancements to reliable network protocols and information retrieval engines. My work spans:  
+
+- **Operating Systems** – extending xv6 with signals, schedulers, and memory management.  
+- **Networking** – implementing TCP/UDP-like reliable transport, SDN controllers, and congestion control.  
+- **Compilers & Tools** – building custom parsers, interpreters, and schematic editors.  
+- **Full-Stack Development** – professional experience in SEO optimization, UI/UX improvements, and scalable web applications.  
+
+I enjoy solving complex engineering problems, contributing to impactful projects, and continuously exploring new technologies.  
 
 ---
 
-## 🔥 Highlights  
+## 🔑 Highlights  
 
-- 🧩 **M.Tech Thesis – Thought2Design**  
-  Built a next-gen PCB design platform with a **gesture-based 3D interface**, **2D schematic editor (TypeScript, SVG.js)**, live validation, and collaborative editing.  
+- **M.Tech Thesis – Thought2Design**  
+  Designed an interactive **PCB design platform** integrating natural prompts, 2D schematic editor, 3D visualization, gesture-based interaction, real-time validation, and collaborative editing.  
 
-- 🌐 **Networking Systems**  
-  - TCP- & UDP-like reliable client-server protocols (C/C++)  
-  - SDN controllers (Hub, Learning Switch, Spanning Tree, Shortest Path, congestion-aware routing)  
-  - TCP-like UDP transport with Reno & CUBIC congestion control  
+- **Networking Systems**  
+  - Implemented TCP- & UDP-like client-server protocols with socket programming.  
+  - Built SDN controllers (Hub, Learning Switch, Spanning Tree, Shortest Path, congestion-aware routing).  
+  - Developed TCP-like UDP transport with ACKs, retransmissions, Reno & CUBIC congestion control.  
 
-- 🖥 **Operating Systems (xv6, C)**  
-  - Extended shell with login, history, and syscall control  
-  - Custom signals & priority-boosting scheduler  
-  - Adaptive page swapping with proactive replacement  
+- **Operating Systems (xv6, C)**  
+  - Added shell extensions (authentication, history, syscall control).  
+  - Implemented custom signals and a priority-boosting scheduler with profiling.  
+  - Designed adaptive page swapping with proactive replacement policies.  
 
-- 🔧 **Programming Languages & Systems**  
-  - LaTeX → Markdown converter (C++, Flex & Bison)  
-  - 2D Metal Slug–style action game (Unity3D, C#)  
-  - Mini Web Browser with custom HTML parser & DOM renderer (C++, Qt)  
+- **Programming Languages & Systems**  
+  - LaTeX → Markdown converter using Flex & Bison (C++).  
+  - 2D Metal Slug–style action game with multi-level design (Unity3D, C#).  
+  - Mini Web Browser with custom HTML parser, DOM renderer, and multi-process tab support (C++, Qt).  
 
-- 📚 **Information Retrieval (C++)**  
-  - Boolean Retrieval Engine on **TREC CORD-19** dataset  
-  - Custom tokenizer, inverted index, Boolean query parser  
-  - From-scratch **AVL trees & hash tables**, plus variable-byte/delta compression  
+- **Information Retrieval (C++)**  
+  - Built a Boolean Retrieval Engine on the TREC CORD-19 dataset.  
+  - Implemented AVL trees and hash tables from scratch for indexing.  
+  - Integrated variable-byte and delta compression for compact, lossless indexing.  
 
-- 💼 **Industry @ Cognizant (Cigna, Express Scripts)**  
-  - Improved SEO (25% CSS size reduction, higher ranking)  
-  - Rolled out global logo & favicon for brand consistency  
-  - Revamped Cigna Middle East site (150+ bilingual pages, automated blogs)  
-  - Improved Express Scripts system efficiency by 20%  
+- **Industry Experience – Cognizant (Cigna, Express Scripts)**  
+  - Improved SEO (CSS minification reduced size by 25%, boosting search rankings).  
+  - Rolled out new logo & favicon across Cigna websites, ensuring brand consistency.  
+  - Revamped Cigna Middle East website (150+ bilingual pages, blog automation, new UI components).  
+  - Enhanced Express Scripts system by fixing claim logic and improving efficiency by 20%.  
 
 ---
 
@@ -50,28 +55,28 @@
 
 **Languages:** Java, C++, JavaScript/TypeScript  
 **Frameworks & Tools:** Kafka, OAuth, CMake, GTest, New Relic, Flex/Bison, Qt, Unity3D, Mininet, Ryu  
-**Other:** Systems Programming, Networking, Compilers, IR, Full Stack  
+**Domains:** Operating Systems, Networking, Information Retrieval, Compilers, Full-Stack Engineering  
 
 ---
 
 ## 📌 Featured Projects  
 
-- [🖥 Thought2Design – PCB Design Tool](#)  
-- [🌐 Networking Systems (TCP/UDP, SDN, Congestion Control)](#)  
-- [🖥 Operating Systems Projects – xv6 Mods](#)  
-- [📚 Boolean Retrieval Engine – IR Project](#)  
-- [🔧 LaTeX → Markdown Converter](#)  
-- [🎮 Metal Slug–Style 2D Game](#)  
-- [🌍 Mini Web Browser](#)  
+- [Thought2Design – PCB Design Platform](#)  
+- [Networking Systems: TCP/UDP Protocols, SDN, Congestion Control](#)  
+- [Operating Systems: xv6 Extensions](#)  
+- [Boolean Retrieval Engine – IR Project](#)  
+- [LaTeX → Markdown Converter](#)  
+- [Metal Slug–Style 2D Action Game](#)  
+- [Mini Web Browser (C++/Qt)](#)  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect  
 
-- 💼 [LinkedIn](#)  
+- 🔗 [LinkedIn](#)  
 - 🐙 [GitHub](#)  
 - 📧 [Email](#)  
 
 ---
 
-✨ *Thanks for stopping by! I’m always excited to collaborate on systems, networking, and compiler-related projects.* 🚀  
+✨ *Always open to collaborating on projects in systems, networking, and compilers.*  
